@@ -5,3 +5,5 @@ after switching master branch changes
 merge kavinda branch
 
 new branch senanayaka
+
+same name
